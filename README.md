@@ -247,5 +247,6 @@ www.linkedin.com/in/pranit-dhuri
 github.com/pranitd0
 
 ---
+Note : This Project is still in development process and will be finalised after it is rechecked and revised.
 
 *This project was created for learning, portfolio demonstration, and Business Analyst interview preparation purposes.*
